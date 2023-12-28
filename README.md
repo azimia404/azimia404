@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="media/icons/1001tracklists.svg" />
+<img src="media/icons/1001tracklists.svg" style="background-color: black" />
 
 <!--
 **azimia404/azimia404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
