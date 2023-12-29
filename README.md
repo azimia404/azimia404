@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <img src="media/images/op.gif" style="background-color: black" />
-
+<pre>Oh... Hi choom! What's going on? Is everything good?</pre>
 <!--
 **azimia404/azimia404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
