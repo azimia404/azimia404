@@ -1,3 +1,4 @@
+<h1 align="center">^._.^</h1>
 <img src="media/images/op.gif" style="background-color: black" alt="Hi~" />
 <h2><pre align="center">【Oh... Hi choom! What's going on? Is everything good?】</pre></h2>
 
@@ -7,10 +8,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azimia404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <hr />
-<img src="media/images/0ewz3ej2jwyb1.png" align="right" alt="It is not loaded anyway...">
+<img src="media/images/0ewz3ej2jwyb1.png" width="25%" align="right" alt="Don't get cocky and everything will be just fine">
 <div>
     <ul>
-        <li>Name:</li>
+        <li>Name: Azim</li>
+        <li>Gender: 🔥He/Him/Male🔥</li>
+        <li>Love: ❤️IT, games, anime💛</li>
+        <li>Flower: 💮Lotus💮</li>
+        <li>Working: ⚫Undercover⚫ (aka unemployed)</li>
     </ul>
 </div>
 <!--
