@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="media/images/hgg.jpg" style="background-color: black" />
+<img src="media/images/op.gif" style="background-color: black" />
 
 <!--
 **azimia404/azimia404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
