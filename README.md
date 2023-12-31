@@ -28,8 +28,7 @@
       </ul>  
 
 <hr />
-<h3 align="center">Technology stack</h3>
-<hr />
+<h2 align="center">Technology stack</h2>
 <div align="center">
     <img height="60px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> 
     <img height="60px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
@@ -38,6 +37,18 @@
 <img height="60px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
     <img height="60px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">    
     <img height="60px" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
+</div>
+
+<h2 align="center">Familiar with</h2>
+<div align="center">
+<img height="60px" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS">
+<img height="60px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
+<img height="60px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django">
+<img height="60px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
+<img height="60px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++">
+<img height="60px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#">
+<img height="60px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+<img height="60px" src="media/images/RegEx.png" alt="Regular Expressions">
 </div>
 <!--
 **azimia404/azimia404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
