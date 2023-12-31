@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azimia404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <hr />
-<img src="media/images/0ewz3ej2jwyb1.png" width="30%" align="right" alt="Don't get cocky and everything will be just fine">
+<img src="media/images/0ewz3ej2jwyb1.png" width="304px" align="right" alt="Don't get cocky and everything will be just fine">
     <pre>Don't do anything cocky and everything will be just fine, right?</pre>
     <ul>
         <li>Name: Azim</li>
@@ -17,7 +17,7 @@
         <li>Flower: 💮Lotus💮</li>
     </ul>
 <br />
-<img src="media/images/ash.png" width="30%" align="left" alt="Don't get cocky and everything will be just fine">
+<img src="media/images/ash.png" width="304px" align="left" alt="Don't get cocky and everything will be just fine">
 <pre>It wasn't loaded anyways...</pre>
       <ul>
         <li>Working: ⚫Undercover⚫ (aka unemployed)</li>
