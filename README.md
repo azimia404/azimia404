@@ -27,19 +27,20 @@
         <li>Language: English, Russian, Kyrgyz</li>
       </ul>  
 
-<hr />
-<h2 align="center">Technology stack</h2>
+<h2 align="center">📇Technology stack📇</h2>
 <div align="center">
     <img height="60px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> 
     <img height="60px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
     <img height="60px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
     <br />
+<img height="60px" src="media/images/da1ejii-1174e87d-27a1-4c70-845f-da715cf2ef0a.gif" alt="I do know them!">
 <img height="60px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
     <img height="60px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">    
     <img height="60px" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
+<img height="60px" src="media/images/tumblr_3da92c7df23a6e839d2a46534f9b6368_7a8d1a03_1280.gif" alt="YES!">
 </div>
 
-<h2 align="center">Familiar with</h2>
+<h2 align="center">🔎Familiar with🔍</h2>
 <div align="center">
 <img height="60px" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS">
 <img height="60px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
