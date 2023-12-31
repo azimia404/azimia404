@@ -11,9 +11,9 @@
     <pre>Don't do anything cocky and everything will be just fine, right?</pre>
     <ul>
         <li>Name: Azim</li>
-        <li>Age: ❄️19☀️</li>
+        <li>Age: ☀️19❄️</li>
         <li>Gender: 🔥He/Him/Male🔥</li>
-        <li>Love: ❤️IT, games, anime💛</li>
+        <li>Love: 💛IT, games, anime❤️</li>
         <li>Flower: 💮Lotus💮</li>
     </ul>
 <br />
@@ -22,9 +22,15 @@
       <ul>
         <li>Working: ⚫Undercover⚫ (aka unemployed)</li>
         <li>Learning: 📓C++📓</li>
-        <li>University: 🔭<abbr title="American University of Central Asia">AUCA</abbr>🔭</li>
+        <li>University: 🔭American University of Central Asia🔭</li>
         <li>Studying: 💻Software Engineering💻</li>
+        <li>Language: English, Russian, Kyrgyz</li>
       </ul>  
+
+<hr />
+<h3 align="center">Technology stack</h3>
+<hr />
+<div align="center">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</div>
 <!--
 **azimia404/azimia404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
