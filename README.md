@@ -27,9 +27,6 @@
         <li>Language: English, Russian, Kyrgyz</li>
       </ul>  
 <br />
-<br />
-<br />
-<hr />
 <h2 align="center">📇Technology stack📇</h2>
 <div align="center">
     <img height="60px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> 
@@ -44,9 +41,6 @@
 </div>
 
 <br />
-<br />
-<br />
-<hr />
 <h2 align="center">🔎Familiar with🔍</h2>
 <div align="center">
 <img height="60px" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS">
