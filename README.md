@@ -60,9 +60,8 @@
 <div>
 <div align="center">
 <img height="120px" src="media/images/keanu-reeves-johnny-silverhand.gif" /> <br/>
-  <a href=""><img height="60px" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
-  <a href=""><img height="60px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
-  <a href=""><img height="60px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
+  <a href="https://discordapp.com/users/383258988093112321/"><img height="60px" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
+  <a href="mailto:azimia404@gmail.com"><img height="60px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
 </div>
 <hr />
 
