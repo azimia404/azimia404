@@ -42,6 +42,9 @@
     <img height="60px" src="media/images/tumblr_3da92c7df23a6e839d2a46534f9b6368_7a8d1a03_1280.gif" alt="YES!">
     <br />
     <img height="60px" src="media/images/RegEx.png" alt="Regular Expressions">
+    <img height="60px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img height="60px" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    <img height="60px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Laravel">
 </div>
 
 <br />
@@ -52,7 +55,6 @@
     <img height="60px" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django"><br />
     <img height="60px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++">
     <img height="60px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C#">
-    <img height="60px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
 </div>
 
 <br />
