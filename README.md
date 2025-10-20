@@ -11,7 +11,7 @@
     <pre>Don't do anything cocky and everything will be just fine, right?</pre>
     <ul>
         <li>Name: Azim</li>
-        <li>Age: ☀️19❄️</li>
+        <li>Age: ☀️21❄️</li>
         <li>Gender: 🔥He/Him/Male🔥</li>
         <li>Love: 💛IT, games, anime❤️</li>
         <li>Flower: 💮Lotus💮</li>
